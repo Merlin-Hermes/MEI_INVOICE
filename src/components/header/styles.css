@@ -1,0 +1,35 @@
+header {
+    background: rgba(244, 243, 243, 0.236);
+    height: 80px;
+    width: 100%;
+    box-shadow: #000;
+    display: flex;
+    align-items: center;
+    padding-left: 15px; 
+}
+
+h1 {
+    color: #000;
+    font-size: x-large;
+    padding-right: 50px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+    color: #000;
+    height: 80px;
+    width: auto;
+}
+a:hover {
+    color: rgba(47, 46, 46, 0.615);
+    
+}
